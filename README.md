@@ -35,9 +35,9 @@ Predict on test data, plot actual vs. predicted prices.
 
 ## PROGRAM
 
-### Name: V.SHREYA
+### Name: J.saranya
 
-### Register Number:212224230266
+### Register Number:212224240146
 
 ```python
 import torch
